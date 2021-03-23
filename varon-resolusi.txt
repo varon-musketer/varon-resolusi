@@ -1,3 +1,4 @@
 VARON RESOLUSI
 - Mempelajari framework laravel
 - Konsisten dalam mempelajari framework laravel
+- Membuat aplikasi sederhana menggunakan framework laravel
