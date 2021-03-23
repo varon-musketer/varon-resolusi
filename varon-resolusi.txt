@@ -1,0 +1,3 @@
+VARON RESOLUSI
+- Mempelajari framework laravel
+- Konsisten dalam mempelajari framework laravel
